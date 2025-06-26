@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../IMG/plano\ de\ fundo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@font-face {
+    font-family: Candy Season;
+    src: url(../Font/Candy\ Season.otf);
+}
+li{
+    font-family: Candy Season;
+    display: inline;
+    font-size: 30px;
+    margin-right: 70px;
+}
+ul{
+    text-align: center;
+}
+@font-face {
+    font-family: Grinda;
+    src: url(../Font/Grinda.otf);
+}
+h1{
+    margin-left: 60px;
+    font-family: Grinda;
+    font-size: 50px;
+    position: absolute;
+}
+p{
+    color: white;
+    width: 800px ;
+    height: 350px;
+    border: 2px double forestgreen;
+    background: linear-gradient(to bottom, #0b3d0b, #1a6624, #2e8b56, #4caf4f);
+    font-size: 30px;
+    text-align: center;
+    margin-left: 400px;
+    padding: 10px;
+    position: absolute;
+    margin-top: 70px;
+}
+#p2{
+    color: white;
+    width: 800px ;
+    height: 300px;
+    border: 2px double forestgreen;
+    background: linear-gradient(to bottom, #0b3d0b, #1a6624, #2e8b56, #4caf4f);
+    font-size: 30px;
+    text-align: center;
+    margin-left: 100px;
+    padding: 10px;
+    position: absolute;
+    margin-top: 600px;
+}
+#title{
+    margin-top: 500px;
+    margin-left: 600px;
+    font-family: Grinda;
+    font-size: 50px;
+    position: absolute;
+}
+#img01{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 50px;
+}
+#img02{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 600px;
+}
+#img03{
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 1200px;
+}
+#img04{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 50px;
+}
+#img05{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 600px;
+}
+#img06{
+    position: absolute;
+    margin-top: 600px;
+    margin-left: 1200px;
+}
+h3{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+#h302{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 300px;
+    text-align: center;
+}
+#h303{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left: 50px;
+}
+#h304{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left:90px;
+}
+#h305{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left: 100px;
+}
+#h306{
+    position: absolute;
+    font-size: 20px;
+    margin-top: 300px;
+    margin-left: 120px;
+}
+h1{
+    position: absolute;
+}
+#h102{
+    margin-top: -150px;
+}
+#tap{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+#sobre{
+    color: white;
+    position: absolute;
+    font-size: 24px;
+}
+video{
+    margin-top: 500px;
+    margin-left: 500px;
+    border-radius: 50px;
+}
+#Torr{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+#sobre02{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+}
+
+
+#Torra{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+#sobre03{
+    color: white;
+    position: absolute;
+    font-size: 24px;
+}
+#Crepi{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+#sobre04{
+    color: white;
+    position: absolute;
+    font-size: 24px;
+}
+#video02{
+    margin-top: 500px;
+    margin-left: 500px;
+    border-radius: 50px;
+}
+#Panque{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+#sobre05{
+    color: white;
+    position: absolute;
+    font-size: 24px;
+}
+#video03{
+    margin-top: 500px;
+    margin-left: 500px;
+    border-radius: 50px;
+}
+#Crepe{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+#sobre06{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+}
+#video04{
+    margin-top: 500px;
+    margin-left: 500px;
+    border-radius: 50px;
+}
+#Cont{
+    font-size: 30px;
+}
+#Logo{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    margin-top: 60px;
+    margin-left: 30px;
+}
+h5{
+    margin-top: 650px;
+    margin-left: 400px;
+    font-size: 30px;
+}
